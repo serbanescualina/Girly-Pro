@@ -1,0 +1,37 @@
+.pici-mm {
+    width: 140px;
+    margin: auto;
+    height: 90px;
+    overflow: hidden;
+    margin-bottom: 10px;
+}
+
+
+
+.content-mm h2{
+    font-size: 16px;
+}
+
+.part-mm{
+    padding: 7px;
+}
+
+.content-mm{
+    width: 100%;
+    margin: auto;
+}
+
+.content-growth,
+.content-inspiration,
+.content-motivational,
+.content-personal{
+    display: flex;
+}
+
+.menu-megamenu{
+    width:25%;
+}
+
+.content-megamenu {
+    width: 75%;
+}
